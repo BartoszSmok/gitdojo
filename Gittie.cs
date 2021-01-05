@@ -8,6 +8,7 @@ namespace gitdojo
         {
             Introduce();
             Console.WriteLine(add(2,4));
+            Joke();
         }
 
         public static void Introduce()
@@ -18,6 +19,11 @@ namespace gitdojo
         public static int add(int a, int b)
         {
             return a + b;
+        }
+
+        public static void Joke()
+        {
+            Console.WriteLine("I ate a clock yesterday, it was very time-consuming.");
         }
     }
 }

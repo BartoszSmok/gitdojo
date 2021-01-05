@@ -25,5 +25,10 @@ namespace gitdojo
         {
             Console.WriteLine("I ate a clock yesterday, it was very time-consuming.");
         }
+
+        public static void shout()
+        {
+            Console.WriteLine("FUUUUUUUUUUCK YOU .VS/");
+        }
     }
 }

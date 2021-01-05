@@ -13,7 +13,7 @@ namespace gitdojo
 
         public static void Introduce()
         {
-            Console.WriteLine("Hello, I'm Krzysiek!");
+            Console.WriteLine("Hello, I'm Gittie! i dont like git");
         }
 
         public static int add(int a, int b)
